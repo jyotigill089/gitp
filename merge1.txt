@@ -1,1 +1,2 @@
 merge confict overwriting first line
+merge confict second line
